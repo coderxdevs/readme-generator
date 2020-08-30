@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "'Create Readme through cli inquiry'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderxdevs/readme-generator.git"
+  },
+  "author": "Aliff, Andrew, Isaac, Jeff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderxdevs/readme-generator/issues"
+  },
+  "homepage": "https://github.com/coderxdevs/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
